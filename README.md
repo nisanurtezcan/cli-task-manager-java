@@ -121,4 +121,4 @@ Basic validation only
 - Password hashing
 - MySQL storage
 ---------------------------------------------------------------------------------
-This is the Network Programming assignment from Vilnius University Šiauliai Academy.
+This is the Network Programming team project assignment from Vilnius University Šiauliai Academy.
