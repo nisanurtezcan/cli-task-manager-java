@@ -93,15 +93,15 @@ VIEW
   * Description
 **Example Response:
 ```
-1 | WORK | 2026-01-15 | Finish Java TCP assignment
-2 | PERSONAL | 2026-01-20 | Go to gym
+1 | WORK | 2026-01-15 | Finish Java assignment
+2 | PERSONAL | 2026-01-20 | Go to school
 ```
 ---
 
 #### 5- DELETE TASK
 
 ```
-DELETE_TASK <taskId>
+DELETE <taskId>
 ```
 
 * Removes a task by its ID
