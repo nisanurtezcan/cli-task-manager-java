@@ -16,7 +16,8 @@ This is a basic multi-client Java CLI Task Management System built with Java TCP
 
 ## Project Structure
 
-src/
+
+ src/
  └── taskManager/
       ├── TCPServerPool.java
       ├── TCPClient.java
@@ -25,7 +26,7 @@ src/
       └── TaskCategory.java
 data/
  └── <username>.txt
- 
+
 ---
 
 ## Commands
