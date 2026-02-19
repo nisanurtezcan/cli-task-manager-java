@@ -19,13 +19,21 @@ This is a basic multi-client Java CLI Task Management System built with Java TCP
 
  src/
  └── taskManager/
+ 
       ├── TCPServerPool.java
+      
       ├── TCPClient.java
+      
       ├── TaskManagementProtocol.java
+      
       ├── TaskDataManager.java
+      
       └── TaskCategory.java
+      
 data/
+
  └── <username>.txt
+ 
 
 ---
 
